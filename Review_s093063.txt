@@ -1,0 +1,9 @@
+# reviewer: s130672
+# reviewed: s093063
+# grade: 10
+
+The first part of the program consists of two functions, used in the program defined at the end of the file. The first function takes the elements of a list and orders them; the second one return the neighbouring values of a list element. 
+
+The functions are applied so that when the user types a number, the program looks for its closest element in a list of 1000 random numbers. 
+
+The code runs smoothly; it is well written and documented. The author should give more information to the user: when the script runs and you enter a value, say 98, as a reply you get “The closest value is 98 at index 15”. But how is the closest value computed? You could say “the closest value in a list of 1000 random values is […]”. You should also specify the value range considered. And to be more clear, I would change “Enter integer or exit :” in “Enter integer or type “”exit :”.

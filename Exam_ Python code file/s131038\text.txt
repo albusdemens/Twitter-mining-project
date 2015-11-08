@@ -1,0 +1,6 @@
+Python programming
+DTU course 02819 Data mining using Python. Previously called DTU course 02820 Python programming (study admin-
+istration wanted another name).
+Project course with a few introductory lectures, but mostly self-taught.
+Deliverables: Hand-in code, Hand-in of evaluations of other students code, a report, a poster and an oral presentation at the poster about a Python program you write in a group.
+Teacher: Finn  ̊Arup Nielsen

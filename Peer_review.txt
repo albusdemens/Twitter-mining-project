@@ -1,0 +1,11 @@
+# reviewer: s130672
+# reviewed: s100322
+# grade: 4
+
+The program simulates a game of Yatzy. It consists of three classes, one defining the "dice bear" (?), another with the rules of the game and a last which controls the name. 
+
+The program should include better documentation, telling the player what are his options (now it only asks "What to do?" once launched). Moreover, the various players should take turns in rolling the dices, while at the moment only one is interacting. 
+
+The program doesn't return the name of the winner, but only the string "Game Ended. Someone won!". This even if there is a def statement to do that (see_points_string).It should be pretty easily to return the name of the winner. 
+
+The last 100 lines of code are not used.
